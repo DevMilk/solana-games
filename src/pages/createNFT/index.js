@@ -50,8 +50,8 @@ function GenerateNFT() {
       share: 100,
     });
     const metadata = {
-      name: `TEST_NFT`,
-      symbol: 'MNFT',
+      name: `DEVMILK`,
+      symbol: 'UGR',
       creators: [selfCreator],
       description: '',
       sellerFeeBasisPoints: 0,
